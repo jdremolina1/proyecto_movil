@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rep-001",
+    "titulo": "Hueco en la carrera 19 con calle 16",
+    "descripcion": "Hueco de medio metro frente a la entrada del bloque C.",
+    "ubicacion": {
+      "latitud": 10.4631,
+      "longitud": -73.2532,
+      "barrio": "Centro"
+    },
+    "creadoEn": "2026-08-10T19:05:00Z",
+    "estado": {
+      "tipo": "enviado",
+      "enviadoEn": "2026-08-10T19:06:30Z"
+    },
+    "fotos": [
+      "https://ejemplo.co/f/1.jpg",
+      "https://ejemplo.co/f/2.jpg"
+    ]
+  },
+  {
+    "id": "rep-002",
+    "titulo": "Luminaria apagada en el parque Villa Corelca",
+    "descripcion": "Tres postes sin luz desde el sabado.",
+    "ubicacion": {
+      "latitud": 10.4487,
+      "longitud": -73.2601,
+      "barrio": "Villa Corelca"
+    },
+    "creadoEn": "2026-08-11T04:40:00Z",
+    "estado": {
+      "tipo": "en_revision",
+      "asignadoA": "cuadrilla-3"
+    }
+  },
+  {
+    "id": "rep-003",
+    "titulo": "Fuga de agua en la avenida Simon Bolivar",
+    "descripcion": "Sale agua del anden hace tres dias.",
+    "ubicacion": {
+      "latitud": 10.4702,
+      "longitud": -73.2489,
+      "barrio": "Los Fundadores"
+    },
+    "creadoEn": "2026-08-09T13:20:00Z",
+    "estado": {
+      "tipo": "rechazado",
+      "motivo": "Falta la foto: no se puede ubicar la fuga."
+    },
+    "fotos": []
+  }
+]
